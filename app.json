@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/baea78/ftr3/blob",
+  "repository": "https://github.com/baea78/ftr3/blob",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
